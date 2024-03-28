@@ -7,6 +7,7 @@
 3. Variables
 4. Operators
 
-
 ## Build-in Functions
+
 1. type()
+2. dir()
